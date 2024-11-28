@@ -47,7 +47,7 @@ counter = 0
 
 def main():
     global counter
-    st.title("Intents of Chatbot using NLP")
+    st.title("Chatbuddy")
 
     # Create a sidebar menu with options
     menu = ["Home", "Conversation History", "About"]
@@ -130,3 +130,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
